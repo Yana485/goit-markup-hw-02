@@ -1,4 +1,15 @@
-.list{
+.logo{
+    font-family: 'Raleway', sans-serif;
+    color: #2E2F42;
+    font-size: 18px;
+    line-height: 21em;
+    letter-spacing: 3%;
+}
+.logo-part{
+    color:#4D5AE5;
+}
+
+.menu{
     list-style-type:none;
 }
 
