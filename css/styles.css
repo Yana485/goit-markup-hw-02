@@ -11,17 +11,17 @@ body{
     background-color: #FFF;
 }
 .logo{   /*для логотипу*/
-    color: #2E2F42;
+    color: #4D5AE5;
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         /* 116.667% */
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 .logo-part{  /*перша чатина логотипу колір*/
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 .bottom-logo{
     color: #F4F4FD;
@@ -42,7 +42,7 @@ list-style-type: none;
     color:  #404BBF;
     text-decoration-line: underline;
 }
-.menu-item:active{
+.menu-item:active, .menu-item:hover{
     color: #404BBF;
 }
 .contacts{
