@@ -78,7 +78,7 @@ list-style-type: none;
     letter-spacing: 0.02em;
 }
 
-.top-button{ /*Кнопка під заголовком*/
+.button{ /*Кнопка під заголовком*/
     background:  #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     color: #FFF;
@@ -102,7 +102,7 @@ list-style-type: none;
 .team{
     background: #F4F4FD;
 }
-.features-topic, .team-title, .portfolio-title{
+.features-title, .team-title, .portfolio-title{
     color:#2E2F42;
     /* Header 2 */
     font-size: 36px;
