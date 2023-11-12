@@ -97,7 +97,7 @@ list-style-type: none;
 .team{
     background: #F4F4FD;
 }
-.team-title, .portfolio-title{
+.features-topic, .team-title, .portfolio-title{
     color:#2E2F42;
     /* Header 2 */
     font-size: 36px;
