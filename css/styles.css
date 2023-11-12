@@ -51,6 +51,7 @@ list-style-type: none;
 
 .contact-look{ /*для телефонy та пошти в навігації*/
     /* Body */
+    color: #434455;
     font-size: 16px;
     line-height: 1.5;
     /* 150% */
@@ -59,6 +60,9 @@ list-style-type: none;
 
 .contact-look:hover{
     color: #404BBF;
+}
+.contact-look:focus {
+    color:#404bbf;
 }
 .banner, .bottom-part{
     background: #2E2F42;
