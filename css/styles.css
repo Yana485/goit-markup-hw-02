@@ -42,7 +42,7 @@ list-style-type: none;
     color:  #404BBF;
     text-decoration-line: underline;
 }
-.menu-item:active, .menu-item:hover{
+.menu-item:active{
     color: #404BBF;
 }
 .contacts{
