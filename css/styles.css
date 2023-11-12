@@ -139,3 +139,6 @@ button{ /*для всіх кнопок*/
 button:hover, button:focus{
         background: #404BBF;
       }
+button:focus{
+    background: #404BBF;
+}
