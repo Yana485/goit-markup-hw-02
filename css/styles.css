@@ -85,7 +85,7 @@ list-style-type: none;
     letter-spacing: 0.04em;
 }
 
-.features-name .team-name, .portfolio-name{
+.features-name, .team-name, .portfolio-name{
     color:#2E2F42;
     font-size: 20px;
     font-weight: 500;
