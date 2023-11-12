@@ -23,7 +23,7 @@ body{
 .logo-part{  /*перша чатина логотипу колір*/
     color: #2E2F42;
 }
-.bottom-logo{
+.down-logo{
     color: #F4F4FD;
 }
 .menu, .contact-list, .features-list, .team-list, .portfolio-list{
@@ -64,7 +64,7 @@ list-style-type: none;
 .contact-look:focus {
     color:#404bbf;
 }
-.banner, .bottom-part{
+.banner, .down-part{
     background: #2E2F42;
 }
 .page-title{ /*Заголовок на банері зверху*/
@@ -118,7 +118,7 @@ list-style-type: none;
 .team-item{
 background:#FFF;
 }
-.features-text, .team-job, .portfolio-text, .bottom-text{
+.features-text, .team-job, .portfolio-text, .down-text{
     /* Body */
     font-size: 16px;
     line-height: 1.5;
@@ -126,7 +126,7 @@ background:#FFF;
     letter-spacing: 0.02em;
 }
 
-.bottom-text{
+.down-text{
     color: #F4F4FD;
 }
 .portfolio-item{
