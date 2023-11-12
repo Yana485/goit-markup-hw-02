@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
+    background-color: #FFF;
     font-weight: normal;
     font-size: 16px;
     line-height: 1.5;
@@ -65,7 +65,6 @@ list-style-type: none;
 }
 .page-title{ /*Заголовок на банері зверху*/
     color: #FFF;
-    text-align: center;
     /* Header 1 */
     font-size: 56px;
     font-weight: 700;
@@ -100,7 +99,6 @@ list-style-type: none;
 }
 .team-title, .portfolio-title{
     color:#2E2F42;
-    text-align: center;
     /* Header 2 */
     font-size: 36px;
     font-weight: 700;
@@ -109,9 +107,7 @@ list-style-type: none;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.team-name{
-    text-align: center;
-}
+
 
 .team-item{
 background:#FFF;
